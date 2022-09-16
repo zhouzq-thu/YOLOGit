@@ -1,0 +1,18 @@
+[submodule "darknet"]
+	path = darknet
+	url = https://github.com/AlexeyAB/darknet
+[submodule "YOLOX"]
+	path = YOLOX
+	url = https://github.com/Megvii-BaseDetection/YOLOX
+[submodule "yolov7"]
+	path = yolov7
+	url = https://github.com/WongKinYiu/yolov7
+[submodule "yolor"]
+	path = yolor
+	url = https://github.com/WongKinYiu/yolor
+[submodule "ScaledYOLOv4"]
+	path = ScaledYOLOv4
+	url = https://github.com/WongKinYiu/ScaledYOLOv4
+[submodule "PyTorch_YOLOv4"]
+	path = PyTorch_YOLOv4
+	url = https://github.com/WongKinYiu/PyTorch_YOLOv4
